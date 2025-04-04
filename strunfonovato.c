@@ -4,7 +4,7 @@ int main() {
     // Declaração de variáveis das cartas
 
     char estado1, estado2;               
-    char codigo1[10], cogit initdigo2[10];           
+    char codigo1[10], codigo2[10];           
     char nomecidade1[50], nomecidade2[50];       
     int populacao1, populacao2;             
     float area1, area2;                
